@@ -2,7 +2,7 @@
 
 Esse repositório contem código relacionado ao tutorial de introdução a POA feito para a disciplina de Sistemas Orientados a Objetos / UNESP / 2018 / Integral
 
-Video Tutorial: [link aqui]
+Video Tutorial: https://www.youtube.com/playlist?list=PLiH_YL5hqYqEkV5inU225aJeGIXemXmwr
 
 Grupo 3:
 - Guilherme Guiguer Menaldo
